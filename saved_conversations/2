@@ -1,0 +1,25 @@
+bot : Hi There!.
+user : hi
+bot : - hello there what do you want to study? i have Java,csharp,maths,social and tamil
+user : tamil
+bot : - wow its a nice course to learn for viewing more details type tamil info or enter any other course name,,
+user : tamil info
+bot : - mentor: Mrs.tamil selvi , course fees: 600 USD , contact_mail: tamil.selvi@gmail.com
+user : tamil
+bot : - wow its a nice course to learn for viewing more details type tamil info or enter any other course name,,
+user : maths
+bot : - wow its a nice course to learn for viewing more details type maths info or enter any other course name,,
+user : hi
+bot : - hello there what do you want to study? i have Java,csharp,maths,social and tamil
+user : hello
+bot : - mentor: Mr.Maths munusamy , course fees: 800 USD , contact_mail: Maths.munusamy@gmail.com
+user : wow
+bot : - wow its a nice course to learn for viewing more details type social info or enter any other course name,,
+user : nice
+bot : - hello there what do you want to study? i have Java,csharp,maths,social and tamil
+user : courses
+bot : - wow its a nice course to learn for viewing more details type csharp info or enter any other course name,,
+user : course
+bot : - wow its a nice course to learn for viewing more details type csharp info or enter any other course name,,
+user : csharp mentor
+bot : - mentor: Mrs.Csharp Geetha , course fees: 1000 USD , contact_mail: Csharp.Geetha@gmail.com
